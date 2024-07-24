@@ -1,19 +1,22 @@
 class Solution {
 public:
+    void findSubset(int idx , vector<int>&nums , vector<vector<int>> & ans , vector<int> & ds)
+    {
+        if(idx == nums.size())
+        {
+            ans.push_back(ds);
+            return;
+        }
+        ds.push_back(nums[idx]);
+        findSubset(idx+1 , nums , ans , ds);
+        ds.pop_back();
+        findSubset(idx+1 , nums , ans ,ds);
+    }
     vector<vector<int>> subsets(vector<int>& nums) {
-     int n=nums.size();
-     int total=pow(2,n);
-     vector<vector<int>> ans;
-     for(int i=0;i<total;i++){
-          vector<int> v;
-         for(int j=0;j<n;j++){
-            
-             if((i&(1<<j))!=0){
-                 v.push_back(nums[j]);
-             }
-         }
-         ans.push_back(v);
-     }   
-     return ans;
+        vector<vector<int>> ans;
+        vector<int> ds;
+
+        findSubset(0 , nums , ans , ds);
+        return ans;
     }
 };
