@@ -25,14 +25,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/amartya895/LeetCode-questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/amartya895/LeetCode-questions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/amartya895/LeetCode-questions/tree/master/0131-palindrome-partitioning) |
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/amartya895/LeetCode-questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/amartya895/LeetCode-questions/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/amartya895/LeetCode-questions/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/amartya895/LeetCode-questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
