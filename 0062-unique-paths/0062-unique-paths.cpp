@@ -1,32 +1,36 @@
 class Solution {
 public:
-    int countUniquePath(int i , int j , vector<vector<int>>&dp)
+    int f(int m , int n , vector<vector<int>> & dp) 
     {
-        if(i == 0 && j == 0)
+        if(m == 0 && n == 0)
         {
+            dp[m][n] = 1;
             return 1;
+
         }
-        if(i < 0 || j < 0)
+
+        if(dp[m][n] != -1 ) return dp[m][n];
+
+        int left = 0;
+        if(n-1 >= 0 )
         {
-            return 0;
+            left += f(m , n-1 , dp);
         }
 
-        if(dp[i][j] != -1) return dp[i][j];
-        
+        int right = 0;
 
-        int left = countUniquePath(i , j-1 , dp);
-        int up = countUniquePath(i-1 , j , dp);
+        if(m-1 >= 0)
+        {
+            right += f(m-1 , n , dp);
+        }
 
-        return dp[i][j] = left + up;
+        return dp[m][n] = left + right;
 
-        
-        
     }
     int uniquePaths(int m, int n) {
-        vector<vector<int>> dp(m , vector<int>(n , -1));
 
-        return countUniquePath(m-1 , n-1, dp);
-
-         
+        vector<vector<int>> dp (m , vector<int>(n , -1));
+        
+        return f(m-1  , n-1 , dp);
     }
 };
