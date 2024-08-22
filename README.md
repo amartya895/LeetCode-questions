@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/amartya895/LeetCode-questions/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/amartya895/LeetCode-questions/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/amartya895/LeetCode-questions/tree/master/0078-subsets) |
 ## Backtracking
 |  |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/amartya895/LeetCode-questions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/amartya895/LeetCode-questions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/amartya895/LeetCode-questions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/amartya895/LeetCode-questions/tree/master/0131-palindrome-partitioning) |
 ## Math
@@ -41,4 +43,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/amartya895/LeetCode-questions/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/amartya895/LeetCode-questions/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
