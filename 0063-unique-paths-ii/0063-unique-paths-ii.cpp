@@ -5,7 +5,7 @@ public:
         if(m == 0 && n == 0)
         {
             
-            return grid[0][0] == 0 ? 1 : 0;
+            return 1;
             
         }
 
