@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/amartya895/LeetCode-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/amartya895/LeetCode-questions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/amartya895/LeetCode-questions/tree/master/0078-subsets) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/amartya895/LeetCode-questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -50,4 +51,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0063-unique-paths-ii](https://github.com/amartya895/LeetCode-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/amartya895/LeetCode-questions/tree/master/0064-minimum-path-sum) |
+## Binary Search
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/amartya895/LeetCode-questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Greedy
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/amartya895/LeetCode-questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/amartya895/LeetCode-questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Sorting
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/amartya895/LeetCode-questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/amartya895/LeetCode-questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
