@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/amartya895/LeetCode-questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/amartya895/LeetCode-questions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/amartya895/LeetCode-questions/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/amartya895/LeetCode-questions/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/amartya895/LeetCode-questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Backtracking
 |  |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/amartya895/LeetCode-questions/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/amartya895/LeetCode-questions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -38,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/amartya895/LeetCode-questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/amartya895/LeetCode-questions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/amartya895/LeetCode-questions/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
@@ -54,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/amartya895/LeetCode-questions/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/amartya895/LeetCode-questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -66,9 +70,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/amartya895/LeetCode-questions/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/amartya895/LeetCode-questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/amartya895/LeetCode-questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/amartya895/LeetCode-questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
